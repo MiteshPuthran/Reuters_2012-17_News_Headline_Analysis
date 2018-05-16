@@ -70,3 +70,16 @@
     Topic 17:  reg asset <br>
     Topic 18:  new high <br>
     Topic 19:  update announces <br>
+    
+* After getting the topics from the samples, it was time to process the whole dataset. 
+* The process takes lot of time to execute, once it was done the headlines were classified into the following topics:
+
+![](images/7.png?raw=true)
+<br>
+<br>
+
+* You can see the heatmap of the different clusters that were discovered with LDA and t-SNE application.
+
+![](images/8.png?raw=true)
+<br>
+<br>
