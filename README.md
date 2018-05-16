@@ -1,6 +1,6 @@
 # Reuters 2012-17 News Headline Analysis
 
-* This analysis consists of analyzing Reuters 6 million news headline data from 2012 to 2017, downloaded from Kaggle. This dataset can be found [here](https://www.kaggle.com/therohk/reuters-news-wire-archive/data)
+* This analysis consists of analyzing Reuters 6 million news headline data from 2012 to 2017, downloaded from Kaggle. This dataset can be found [here](https://www.kaggle.com/therohk/reuters-news-wire-archive/data).
 
 * The main idea is TOPIC-MODELLING, to find out how news headlines can be related and classified into different subgroups using LDA (Linear Discriminant Analysis) and applying t-SNE.
 
