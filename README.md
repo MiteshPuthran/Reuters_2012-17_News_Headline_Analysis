@@ -8,10 +8,10 @@
 
 * The first step was to clean the data and convert it into the usable form. The raw data had 'headlines' and 'publishtime' column which was in the form where the data and time were just nubers combined together. Had to be seperated and converted into date-time format before it was used for further analysis.
 
-![](images/1.png?raw=true)
+![](images/1.PNG?raw=true)
 <br>
 <br>
-![](images/2.png?raw=true)
+![](images/2.PNG?raw=true)
 <br>
 <br>
 
@@ -21,13 +21,13 @@
 * To calculate the length of headlines, each word of every headline were counted for every entry in the dataset.
 **It turned out that most of the headlines published between 2012 and 2017 consisted of 9 words.**
 
-![](images/3.png?raw=true)
+![](images/3.PNG?raw=true)
 <br>
 <br>
 
 **Word Cloud of most used word pairs in the published headlines**
 
-![](images/4.png?raw=true)
+![](images/4.PNG?raw=true)
 <br>
 <br>
 
@@ -36,7 +36,7 @@
 * As there were 6 million headlines, it made no sense to apply LDA and check whether it was working as expected. So before applying LDA to the whole dataset, 10000 random samples were selected. 
 * LDA was applied on the samples to discover 20 different classification topics.
 
-![](images/5.png?raw=true)
+![](images/5.PNG?raw=true)
 <br>
 <br>
 
@@ -44,7 +44,7 @@
 * Also the dimensions has to be reduced to 2 in order to visualize the classifications and also to overcome hardware limitation and time.
 * Plotting the classifications of topics on the sample data
 
-![](images/6.png?raw=true)
+![](images/6.PNG?raw=true)
 <br>
 <br>
 
@@ -74,12 +74,12 @@
 * After getting the topics from the samples, it was time to process the whole dataset. 
 * The process takes lot of time to execute, once it was done the headlines were classified into the following topics:
 
-![](images/7.png?raw=true)
+![](images/7.PNG?raw=true)
 <br>
 <br>
 
 * You can see the heatmap of the different clusters that were discovered with LDA and t-SNE application.
 
-![](images/8.png?raw=true)
+![](images/8.PNG?raw=true)
 <br>
 <br>
