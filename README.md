@@ -49,23 +49,24 @@
 <br>
 
 * The headlines have been clustered into 20 different topics as follows:
-  *<li>Topic 0:  present ceo
- *<li>Topic 1:  update fund
- --Topic 2:  brief reg
-Topic 3:  brief announces
-Topic 4:  new says
-Topic 5:  preview dividend
-Topic 6:  rate reg
-Topic 7:  research markets
-Topic 8:  china shares
-Topic 9:  brief profit
-Topic 10:  new program
-Topic 11:  business technology
-Topic 12:  stocks india
-Topic 13:  bank national
-Topic 14:  launches deal
-Topic 15:  quarter results
-Topic 16:  fitch outlook
-Topic 17:  reg asset
-Topic 18:  new high
-Topic 19:  update announces
+
+    Topic 0:  present ceo <br>
+    Topic 1:  update fund <br>
+    Topic 2:  brief reg <br>
+    Topic 3:  brief announces <br>
+    Topic 4:  new says <br>
+    Topic 5:  preview dividend <br>
+    Topic 6:  rate reg <br>
+    Topic 7:  research markets <br>
+    Topic 8:  china shares <br>
+    Topic 9:  brief profit <br>
+    Topic 10:  new program <br>
+    Topic 11:  business technology <br>
+    Topic 12:  stocks india <br>
+    Topic 13:  bank national <br>
+    Topic 14:  launches deal <br>
+    Topic 15:  quarter results <br>
+    Topic 16:  fitch outlook <br>
+    Topic 17:  reg asset <br>
+    Topic 18:  new high <br>
+    Topic 19:  update announces <br>
