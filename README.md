@@ -15,7 +15,7 @@
 <br>
 <br>
 
-### Finding most headlines of certain lenght and finding most used words in headlines other than articles like a, the etc. and creating a word cloud.
+### Finding most headlines of certain length and finding most used words in headlines other than articles like a, the etc. and creating a word cloud.
 * Headlines were converted into lowercase letter and cleaned using regular expressions.
 * Most used words were found by calculating the frequency of the words that appeared in all the headline since 2012 to 2017.
 * To calculate the length of headlines, each word of every headline were counted for every entry in the dataset.
